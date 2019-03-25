@@ -13,7 +13,6 @@ crossorigin="anonymous">
  
   <div class = "container">
   <div class = "">
-  <img src="#" class="img-fluid" alt="Responsive image">
   <video id="yohoho" data-kinopoisk="<?php echo $value ; ?>" controls> 
   <source src="//yohoho.cc/yo.mp4" type="video/mp4"> 
     </video> 
